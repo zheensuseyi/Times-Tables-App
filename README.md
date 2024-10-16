@@ -1,2 +1,5 @@
+# Zheen H. Suseyi
+# 10/16/2024
 # TimesTablesApp
-An app that allows the user to practice their Times Tables! Comes with 3 difficulties, a clean UI, and animations!
+This is an easy to use app that allows a user to practice their Times Tables using their iPhone or iPad! 
+
