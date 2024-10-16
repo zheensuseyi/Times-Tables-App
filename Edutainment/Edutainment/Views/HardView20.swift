@@ -11,7 +11,7 @@ struct HardView20: View {
     @State private var questionNumber = 1
     @State private var randomNumber1 = Int.random(in: 2...12)
     @State private var randomNumber2 = Int.random(in: 2...12)
-    @State private var randomEmoji = Int.random(in: 0...4)
+    @State private var randomEmoji = Int.random(in: 0...3)
     @State private var selection: Int = 0
     @State private var scoreTitle = ""
     @State private var showAlert = false

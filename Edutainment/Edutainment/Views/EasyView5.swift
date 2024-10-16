@@ -15,7 +15,7 @@ struct EasyView5: View {
     // Another variable to hold a random number 0-5 (this gets changed in other views)
     @State private var randomNumber2 = Int.random(in: 0...5)
     // Variable that will be used to pick a random emoji from an array
-    @State private var randomEmoji = Int.random(in: 0...4)
+    @State private var randomEmoji = Int.random(in: 0...3)
     // Variable that will be used for the Picker selection
     @State private var selection: Int = 0
     // Score Title that will be updated for the button
