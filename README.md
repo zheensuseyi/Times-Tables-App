@@ -1,7 +1,7 @@
 # Zheen H. Suseyi
 # 10/16/2024
 # TimesTablesApp
-# This is an easy to use app that allows a user to practice their Times Tables using their iPhone or iPad! 
+This is an easy to use SwiftUI app that allows a user to practice their Times Tables!
 
 ![Alt text](https://github.com/zheensuseyi/TimeTablesApp/blob/main/compressthis-ezgif.com-optimize.gif
 )
