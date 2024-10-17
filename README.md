@@ -3,14 +3,18 @@
 # TimesTablesApp
 # This is an easy to use app that allows a user to practice their Times Tables using their iPhone or iPad! 
 
+![Alt text](https://github.com/zheensuseyi/TimeTablesApp/blob/main/compressthis-ezgif.com-optimize.gif
+)
 
-# ===============HOME SCREEN===============
+
+
+# ==HOME SCREEN==
 ![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/HomeScreen.png)
-# ===============QUESTION SCREEN===============
+# ==QUESTION SCREEN==
 ![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/QuestionScreen.png)
-# ===============GAME SCREEN===============
+# ==GAME SCREEN
 ![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GameScreen.png)
-# ===============GAMEPLAY SCREEN===============
+# ==GAMEPLAY SCREEN==
 ![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GamePlayScreen.png)
 
 
