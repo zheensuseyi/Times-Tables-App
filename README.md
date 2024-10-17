@@ -5,4 +5,6 @@ This is an easy to use app that allows a user to practice their Times Tables usi
 
 
 ![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GameScreen.png)
+![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GamePlay Screen.png)
+
 
