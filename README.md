@@ -4,5 +4,5 @@
 This is an easy to use app that allows a user to practice their Times Tables using their iPhone or iPad! 
 
 
-![Alt text][(https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GamePlay Screen.png
-)
+![My Image](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/GameScreen.png)
+
