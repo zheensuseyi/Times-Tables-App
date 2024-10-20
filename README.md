@@ -1,11 +1,13 @@
 # Zheen H. Suseyi
 # 10/16/2024
 # TimesTablesApp
+
+<div align="center">
+
 An easy to use SwiftUI app that allows a user to practice their Times Tables!
 
 
 
-<div align="center">
 
 # ==GAMEPLAY SHOWCASE==
 
