@@ -4,9 +4,9 @@
 
 <div align="center">
 
-An easy to use SwiftUI app that allows a user to practice their Multiplication Times Tables! 
+<h1> An easy to use SwiftUI app that allows a user to practice their Multiplication Times Tables! </h1>
 
-Users can chose between 3 difficulties and either 5, 10, or 20 questions for each difficulty!
+<h2> Users can chose between 3 difficulties and either 5, 10, or 20 questions for each difficulty! </h2>
 
 
 
