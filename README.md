@@ -3,9 +3,11 @@
 # TimesTablesApp
 An easy to use SwiftUI app that allows a user to practice their Times Tables!
 
-<div align="center">
 ![Alt text](https://github.com/zheensuseyi/TimesTablesApp/blob/main/timestableappSS/trythiscompressgif.gif
 )
+
+<div align="center">
+
 
 
 
