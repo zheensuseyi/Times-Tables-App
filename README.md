@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1> Times Tables App. </h1>
+<h1> Times Tables App 📕 </h1>
 <h2> OVERVIEW </h2>
 <h3> An easy to use SwiftUI app that allows a user to practice their Multiplication Times Tables! </h3>
 <h2> FEATURES </h2>
