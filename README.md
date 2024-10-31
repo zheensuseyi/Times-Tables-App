@@ -8,8 +8,9 @@
 <h3> - Users can chose between 3 difficulties with 5, 10, or 20 questions for each difficulty! </h3>
 <h3> - Colorful and easy to navigate UI</h3>
 <h3> - Animations </h3>
+<h3> - An alert pop-up upon answering a question </h3>
 <h3> - Random Questions based upon the difficulty selected </h3>
-<h3> - A score tracker that tracks the users score! </h3>
+<h3> - A score tracker that tracks the users score </h3>
 <h2> TECHNOLOGIES USED </h2>
 <h3> Swift, SwiftUI, XCode </h3>
 <h2> HOW TO INSTALL AND RUN </h2>
